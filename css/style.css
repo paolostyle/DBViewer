@@ -1,0 +1,16 @@
+.badge {
+	color: #000;
+	background: none;
+}
+
+.glyphicon {
+	color: #0F7CDB;
+	cursor: pointer;
+}
+
+.footer {
+	background: #f8f8f8;
+	border-color: #e7e7e7;
+	min-height: 50px;
+	padding-top: 15px;
+}
